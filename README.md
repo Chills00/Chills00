@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/originals/10/f0/b2/10f0b2dbb93987c1ad63d566c116fc79.gif" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/10/f0/b2/10f0b2dbb93987c1ad63d566c116fc79.gif" height="400" width=auto /> </p>
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A Biochemist with an interest in all things Data Science</h3>
 
